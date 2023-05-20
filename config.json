@@ -1,30 +1,5 @@
 {
     "UseService": false,
-
-    "Interests": [
-        {
-            "Architecture": true,
-            "Culture": true,
-            "Famouse People": true,
-            "Food": true,
-            "Nature": true,
-            "Nightlife": true,
-            "Population": true,
-            "Shopping": true,
-            "Sports": true,
-            "Technology": true
-        }
-    ],
-    "DaysToNotRepeatDropdown": [
-        {
-            "1 Day": 1,
-            "1 Week": 7,
-            "1 Month": 30
-        }
-    ],
-    "DaysToNotRepeatDropdownDefault": "1 Month",
-
     "InitialNotificationContent": "Waiting for location updates",
-    
-    "Prompt": "As a tour guide, generate text about the points of interest surrounding <place> and the city. The text should be informative and targeted towards tourists who pass through the area or spend a few days there. Focus on: <focus>. Ignore: <ignore>. A closing statement not needed.",
+    "Prompt": "As a tour guide, generate text about the points of interest surrounding <place> and the city. The text should be informative and targeted towards tourists who pass through the area or spend a few days there. Focus on: <focus>. Ignore: <ignore>. A closing statement not needed."
 }
