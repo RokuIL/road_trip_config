@@ -9,10 +9,10 @@
     "PlaceLink": "https://www.bing.com/search?q=",
     "PersonLink": "https://www.bing.com/search?q=",
     "Interests": {
-        "Architecture": true,
         "Culture": true,
         "Famous People": true,
         "Food": true,
+        "Museums": true,
         "Nature": true,
         "Nightlife": true,
         "Population": true,
