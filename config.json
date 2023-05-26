@@ -4,8 +4,8 @@
     "InitialNotificationContent": "Waiting for location updates",
     "Prompt": "You are a tour guide. Talk about <place>. It should be informative and targeted towards tourists who pass through the area or spend a few days there. Include <focus>. Ignore: <ignore>. An opening or closing statement isn't needed. Surround names of people with <b></b> like in HTML and names of cities, attractions, place with <c></c>.",
     "Model": "gpt-3.5-turbo",
-    "Temperature": 0.2,
-    "Max_tokens": 550,
+    "Temperature": 0.1,
+    "Max_tokens": 500,
     "PlaceLink": "https://www.bing.com/search?q=",
     "PersonLink": "https://www.bing.com/search?q=",
     "Interests": {
