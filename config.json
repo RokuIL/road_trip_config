@@ -19,5 +19,7 @@
         "Population": true,
         "Shopping": true,
         "Technology": true
-    }
+    },
+    "SystemMessageShowBefore": "",
+    "SystemMessage": ""
 }
