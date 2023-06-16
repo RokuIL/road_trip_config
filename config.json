@@ -22,5 +22,6 @@
     },
     "SystemMessageShowBefore": "",
     "SystemMessage": "",
-    "ShowAds": true
+    "ShowAds": true,
+    "LogErrors": true
 }
