@@ -2,7 +2,7 @@
     "UseService": false,
     "DistanceFilter": 750,
     "InitialNotificationContent": "Waiting for location updates",
-    "Prompt": "1. Generate text about <place>. It should be informative and targeted towards tourists who pass through the area or spend a few days there. Include <focus>. Ignore <ignore>. 2. Surround all names of people with <b></b>, like <b>Bill Gates</b>. Surround all location names with <c></c>, like <c>Seattle, WA</c>. 3. Reorder based on interests.",
+    "Prompt": "Write about <place>. Include information about <focus>. Ignore <ignore>. Surround all names of people with <b></b> and all location names with <c></c>.",
     "Model": "gpt-3.5-turbo-0613",
     "Temperature": 0.1,
     "Max_tokens": 500,
@@ -18,7 +18,7 @@
         "Parks": true,
         "Population": true,
         "Shopping": true,
-        "Technology": true
+        "Industries": true
     },
     "SystemMessageShowBefore": "",
     "SystemMessage": "",
