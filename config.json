@@ -23,5 +23,9 @@
     "SystemMessageShowBefore": "",
     "SystemMessage": "",
     "ShowAds": true,
+    "FreeLocations": 10,
+    "IAPSku": "roadtripedia_locations_50x_0.49",
+    "SkuLocationsToAdd": 50,
+    "LocationsBuyThreshold": 150,
     "LogErrors": true
 }
