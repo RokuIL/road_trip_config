@@ -2,10 +2,10 @@
     "UseService": false,
     "DistanceFilter": 750,
     "InitialNotificationContent": "Waiting for location updates",
-    "Prompt": "Write about <place>. Include information about <focus>. Ignore <ignore>. Surround all names of people with <b></b> and all location names with <c></c>.",
+    "Prompt": "Write briefly about <place>. Focus on facts. Include information about <focus>. Ignore <ignore>. Surround all names of people with <b></b> and all location names with <c></c>.",
     "Model": "gpt-3.5-turbo-0613",
     "Temperature": 0.1,
-    "Max_tokens": 500,
+    "Max_tokens": 1000,
     "PlaceLink": "https://www.bing.com/search?q=",
     "PersonLink": "https://www.bing.com/search?q=",
     "Interests": {
