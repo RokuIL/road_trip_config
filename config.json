@@ -29,7 +29,8 @@
     "IAPSku": "roadtripedia_locations_50x_0.49",
     "SkuLocationsToAdd": 50,
     "LocationsBuyThreshold": 150,
-    "photoSearchUrl": "https://www.bing.com/images/search?q=",
-    "imgTagClass": "mimg",
+    "PhotoSearchUrl": "https://www.bing.com/images/search?q=",
+    "ImgRegExp": "<div[^>]*role=\"main\"[^>]*>(.*?)<img[^>]*src=\"([^\"]+)\"",
+    "RegExpGroup": 2,
     "LogErrors": true
 }
