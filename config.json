@@ -7,7 +7,7 @@
     "Temperature": 0.1,
     "Max_tokens": 1000,
     "RemoveLastParagraph": ["Overall", "In conclusion", "In summary"],
-    "ShowPlaceAndPersonLinks": false,
+    "ShowPlaceAndPersonLinks": true,
     "PlaceLink": "https://www.bing.com/search?q=",
     "PersonLink": "https://www.bing.com/search?q=",
     "Interests": {
