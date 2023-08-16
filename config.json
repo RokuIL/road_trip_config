@@ -30,6 +30,7 @@
     "IAPSku": "roadtripedia_locations_50x_0.49",
     "SkuLocationsToAdd": 50,
     "LocationsBuyThreshold": 150,
+    "EnableLocationsCount": false,
     "PhotoSearchUrl": "https://www.bing.com/images/search?q=",
     "ImgRegExp": "<div[^>]*role=\"main\"[^>]*>(.*?)<img[^>]*src=\"([^\"]+)\"",
     "RegExpGroup": 2,
