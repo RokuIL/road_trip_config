@@ -3,7 +3,7 @@
     "DistanceFilter": 750,
     "InitialNotificationContent": "Waiting for location updates",
     "Prompt": "Write briefly about <place>. Focus on facts. Include information about <focus>. Ignore <ignore>. Surround all names of people with <b></b> and all location names with <c></c>.",
-    "Model": "gpt-3.5-turbo-0613",
+    "Model": "gpt-3.5-turbo-1106",
     "Temperature": 0.1,
     "Max_tokens": 1000,
     "RemoveLastParagraph": ["Overall", "In conclusion", "In summary"],
