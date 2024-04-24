@@ -34,5 +34,7 @@
     "PhotoSearchUrl": "https://www.bing.com/images/search?q=",
     "ImgRegExp": "<div[^>]*role=\"main\"[^>]*>(.*?)<img[^>]*src=\"([^\"]+)\"",
     "RegExpGroup": 2,
+    "CheckAppUpdate": true,
+    "DaysToNextAppUpdateDialog": 3,
     "LogErrors": true
 }
