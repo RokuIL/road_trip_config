@@ -32,7 +32,7 @@
     "LocationsBuyThreshold": 150,
     "EnableLocationsCount": false,
     "PhotoSearchUrl": "https://www.bing.com/images/search?q=",
-    "ImgRegExp": "<div[^>]*role=\"main\"[^>]*>(.*?)<img[^>]*src=\"([^\"]+)\"",
+    "ImgRegExp": "<div[^>]*role=\"img_cont hoff\"[^>]*>(.*?)<img[^>]*src=\"([^\"]+)\"",
     "RegExpGroup": 2,
     "CheckAppUpdate": true,
     "DaysToNextAppUpdateDialog": 3,
