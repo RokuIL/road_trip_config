@@ -2,7 +2,7 @@
     "UseService": false,
     "DistanceFilter": 750,
     "InitialNotificationContent": "Waiting for location updates",
-    "Prompt": "Write briefly about <place>. Focus on facts. Include information about <focus>. Ignore <ignore>. Surround all names of people with <b></b> and all location names with <c></c>.",
+    "Prompt": "Write briefly about <place>. Focus on facts. Include information about <focus>. Ignore <ignore>. Surround all names of people with <b></b> and all location names with <c></c>. No need for headers and titles.",
     "Model": "gpt-4o",
     "Temperature": 0.1,
     "Max_tokens": 1000,
