@@ -4,7 +4,7 @@
     "InitialNotificationContent": "Waiting for location updates",
     "Prompt": "Write a short, engaging overview about <place>. Keep it fact-based, but feel free to use a relaxed and conversational tone. Focus on the most interesting and important points first. Include information about <focus>. Ignore <ignore>. Surround all names of people with <b></b> and all location names with <c></c>. No need for headers and titles. When you refer to the place, no need to mention the state and country.",
     "PromptSuffix": "If relevant, highlight what makes <place> different from <previous_place>. Avoid repeating details already mentioned: <previous_answer>.",
-    "MinToConsiderPreviousAnswer": 15,
+    "MinToConsiderPreviousAnswer": 60,
     "Model": "gpt-4.1-mini",
     "Temperature": 0.1,
     "MaxCompletionTokens": 1500,
