@@ -6,6 +6,7 @@
     "Prompt": "Write a short, engaging overview about <place>. Keep it fact-based, but feel free to use a relaxed and conversational tone. Focus on the most interesting and important points first. Include information about <focus>. Ignore <ignore>. Surround all names of people with <b></b> and all location names with <c></c>. No need for headers and titles. When you refer to the place, no need to mention the state and country.",
     "PromptSuffix": "If relevant, highlight what makes <place> different from <previous_place>. Avoid repeating details already mentioned: <previous_answer>.",
     "MinToConsiderPreviousAnswer": 60,
+    "SharingPromptTemplate": "Create a brief, engaging description (2-3 sentences) of this road trip route. Focus on the journey and highlight interesting places visited. Keep it conversational and travel-focused. Route details: {ROUTE_DETAILS} Example style: \"What an amazing journey through [region]! Started at [first place] and made memorable stops at [key highlights], covering [distance/time period]. This route showcases some beautiful [type of locations] worth exploring!\"",
     "Model": "gpt-4.1-mini",
     "Temperature": 0.1,
     "MaxCompletionTokens": 1500,
