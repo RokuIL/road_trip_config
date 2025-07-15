@@ -40,5 +40,6 @@
     "RegExpGroup": 2,
     "CheckAppUpdate": true,
     "DaysToNextAppUpdateDialog": 3,
+    "ServiceAutoStopMinutes": 90,
     "LogErrors": true
 }
