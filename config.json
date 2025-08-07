@@ -7,7 +7,7 @@
     "PromptSuffix": "If relevant, note key differences between <place> and <previous_place>. Avoid repeating information already mentioned: <previous_answer>.",
     "MinToConsiderPreviousAnswer": 60,
     "SharingPromptTemplate": "Create a brief, factual description (2-3 sentences) of this road trip route. Include the starting and ending locations, key stops along the way, and relevant geographical or logistical details. Keep it informative and straightforward. Route details: {ROUTE_DETAILS} Example style: \"This route travels from [first place] to [last place], covering [distance/region]. The journey includes stops at [key locations] and passes through [geographical features or notable areas]. Total travel spans [time period/distance] across [type of terrain/region].\"",
-    "Model": "gpt-5-mini",
+    "Model": "gpt-4.1-mini",
     "Temperature": 0.1,
     "MaxCompletionTokens": 1500,
     "RemoveLastParagraph": ["No-Overall", "No-In conclusion", "No-In summary"],
