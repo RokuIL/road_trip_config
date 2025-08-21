@@ -2,8 +2,8 @@
     "UseService": false,
     "DistanceFilter": 500,
     "ShouldUseBackupGeoLocation": false,
-    "ShouldUseNearbyPoiApi": false,
-    "NearbyPoiSearchRadius": 250,
+    "NearbyPoiSearchRadius": 300,
+    "nearbyPoiMaxResults": 15,
     "NearbyPoiIncludedTypes": [
         "historical_place",
         "monument",
