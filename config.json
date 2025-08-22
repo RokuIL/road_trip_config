@@ -2,14 +2,19 @@
     "UseService": false,
     "DistanceFilter": 500,
     "ShouldUseBackupGeoLocation": false,
-    "NearbyPoiSearchRadius": 300,
+    "NearbyPoiSearchRadius": 500,
     "nearbyPoiMaxResults": 15,
     "NearbyPoiIncludedTypes": [
+        "cultural_landmark",
         "historical_place",
         "monument",
         "national_park",
+        "observation_deck",
+        "park",
         "state_park",
-        "tourist_attraction"
+        "tourist_attraction",
+        "visitor_center",
+        "zoo"
     ],
     "InitialNotificationContent": "Waiting for location updates",
     "Prompt": "Write a concise, friendly overview about <place>. Keep it factual and verifiable, with a warm, conversational tone—like a well‑traveled friend. Present the most meaningful points first. Weave information about <focus> naturally into the prose and omit <ignore>. Surround all names of people with <b></b> and all location names with <c></c>. Do not use headings, titles, bullet points, or any paragraph labels (for example: 'History:', 'Geography:', 'Food:', 'Culture:'). Avoid starting any line with a topic name followed by a colon. Use short, natural paragraphs. When you refer to the place, you don't need to repeat the state or country. Answer directly with the overview—do not ask follow‑up or clarifying questions. If details are missing, proceed using widely known, verifiable information and omit speculation. Do not include placeholders, TODOs, or requests for more information.",
