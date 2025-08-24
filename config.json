@@ -1,6 +1,7 @@
 {
     "UseService": false,
     "DistanceFilter": 500,
+    "LocalityConfidenceThreshold": 75,
     "ShouldUseBackupGeoLocation": false,
     "NearbyPoiSearchRadius": 500,
     "nearbyPoiMaxResults": 15,
