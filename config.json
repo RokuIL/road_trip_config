@@ -1,5 +1,4 @@
 {
-    "UseService": false,
     "DistanceFilter": 500,
     "LocalityConfidenceThreshold": 75,
     "ShouldUseBackupGeoLocation": false,
