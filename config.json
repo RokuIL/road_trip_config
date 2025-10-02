@@ -2,6 +2,7 @@
     "DistanceFilter": 500,
     "LocalityConfidenceThreshold": 75,
     "ShouldUseBackupGeoLocation": false,
+    "MinTimeInStop": 20,
     "NearbyPoiSearchRadius": 500,
     "nearbyPoiMaxResults": 15,
     "NearbyPoiIncludedTypes": [
