@@ -1,5 +1,6 @@
 {
     "DistanceFilter": 500,
+    "MinConsecutiveGpsOnlyUpdates": 2,
     "LocalityConfidenceThreshold": 75,
     "ShouldUseBackupGeoLocation": false,
     "MinTimeInStop": 20,
