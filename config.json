@@ -43,8 +43,8 @@
         "Shopping": true,
         "Industries": true
     },
-    "SystemMessageShowBefore": "",
-    "SystemMessage": "",
+    "SystemMessageShowBefore": "2026-08-01T00:00:00Z",
+    "SystemMessage": "We\u2019re currently fixing an issue with AI interactions. Thanks for your patience while we get things working again.",
     "ShowAds": true,
     "ShowAffiliateLinks": true,
     "FreeLocations": 20,
